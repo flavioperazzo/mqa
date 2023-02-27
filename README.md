@@ -3,8 +3,8 @@
 # Sumário
 1. [Prefácio](#Prefácio)
 2. [Fim](#Fim)
-
-## Prefácio
+#
+# Prefácio
 <p align="justify">Nem sempre é fácil aprender coisas novas, ainda mais quando se fala em métodos quantitativos. Em um primeiro momento, muitos de nós ficamos até ansiosos só de pensar sobre isso. Eu conheço essa sensação, tanto na condição de discente quanto na de docente. Ou seja, já senti insegurança ao me matricular em disciplinas da área e vivencio isso nos meus orientandos e alunos. Em outras palavras, passei pelo mesmo processo que, talvez, você esteja experenciando no momento, pois é comum que carreguemos algumas resistências com relação à determinados conteúdos. Disciplinas como matemática e estatística nem sempre nos são apresentadas com a devida aplicabilidade ou por docentes com formação na nossa área de aplicação, o que dificulta, muitas vezes, o aprendizado e ajuda a criar barreiras nos estudantes</p>
 
 <p align="justify">Todavia, há uma luz no fim do túnel. Posso afirmar com segurança que se eu consegui chegar até aqui, acredite, você também conseguirá. Desde 2018 sou resposável pela disciplina de Métodos Quantitativos Aplicados no Programa de Pós-Graduação em Gestão Pública e Cooperação Internacional da Universidade Federal da Paraíba. Se me perguntassem se um dia eu teria imaginado que isso ocorreria, certamente a resposta seria negativa. Afinal, minha trajetória de pesquisa iniciou como a de muitos outros estudantes de pós-graduação na área de Ciências Sociais e Humanas, isto é, buscando refúgio nos métodos qualitativos. Essa história só começou a mudar a partir do meu doutorado, quando a vontade se juntou com a oportunidade.</p>
