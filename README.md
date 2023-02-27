@@ -18,7 +18,9 @@ Bom, toda prosa é boa e haveria muito mais ainda a ser contado. Mas, chega de c
 
 ## :book: Introdução
 Lorem ipsum 
-
+```
+código
+```
 [:arrow_up: Sumário](#sumário)
 ## Fim
 
