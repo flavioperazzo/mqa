@@ -1,5 +1,6 @@
 # Métodos Quantitativos Aplicados: uma abordagem simplificada
-1. [Prefácio](##Prefácio)
+1. [Prefácio](## Prefácio)
+2. [Fim](## Fim)
 
 ## Prefácio
 <p align="justify">Nem sempre é fácil aprender coisas novas, ainda mais quando se fala em métodos quantitativos. Em um primeiro momento, muitos de nós ficamos até ansiosos só de pensar sobre isso. Eu conheço essa sensação, tanto na condição de discente quanto na de docente. Ou seja, já senti insegurança ao me matricular em disciplinas da área e vivencio isso nos meus orientandos e alunos. Em outras palavras, passei pelo mesmo processo que, talvez, você esteja experenciando no momento, pois é comum que carreguemos algumas resistências com relação à determinados conteúdos. Disciplinas como matemática e estatística nem sempre nos são apresentadas com a devida aplicabilidade ou por docentes com formação na nossa área de aplicação, o que dificulta, muitas vezes, o aprendizado e ajuda a criar barreiras nos estudantes</p>
@@ -10,5 +11,5 @@
 
 <p align="justify">Bom, toda prosa é boa e haveria muito mais ainda a ser contado. Mas, chega de conversa fiada e vamos ao que interessa. Aqui nesse repositório, você vai encontrar um conjunto de informações que, espero, possam auxiliar na utilização em pesquisas quanti, como gostamos de dizer. O sumário, apresentado em uma perspectiva cronológica de conhecimento na área, vai ajudar a encontrar o tópico de interesse mais rapidamente. Por isso, sugiro que você se guie por ele. Qualquer dúvida adicional sobre o conteúdo, você pode sempre entrar em contato comigo, caso lhe seja conveniente: <a href="mailto:flavio.perazzo@academico.ufpb.br">flavio.perazzo@academico.ufpb.br</a>.</p>
 
- 
+ ## Fim
 
