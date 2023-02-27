@@ -11,5 +11,6 @@
 
 <p align="justify">Bom, toda prosa é boa e haveria muito mais ainda a ser contado. Mas, chega de conversa fiada e vamos ao que interessa. Aqui nesse repositório, você vai encontrar um conjunto de informações que, espero, possam auxiliar na utilização em pesquisas quanti, como gostamos de dizer. O sumário, apresentado em uma perspectiva cronológica de conhecimento na área, vai ajudar a encontrar o tópico de interesse mais rapidamente. Por isso, sugiro que você se guie por ele. Qualquer dúvida adicional sobre o conteúdo, você pode sempre entrar em contato comigo, caso lhe seja conveniente: <a href="mailto:flavio.perazzo@academico.ufpb.br">flavio.perazzo@academico.ufpb.br</a>.</p>
 
- ## Fim <a name="Fim"></a>
+ ## Fim 
+ <div id="Fim"></div>
 
