@@ -4,8 +4,6 @@
 1. [Prefácio](#Prefácio)
 2. [Fim](#Fim)
 
-<hr>
-
 ## Prefácio
 <p align="justify">Nem sempre é fácil aprender coisas novas, ainda mais quando se fala em métodos quantitativos. Em um primeiro momento, muitos de nós ficamos até ansiosos só de pensar sobre isso. Eu conheço essa sensação, tanto na condição de discente quanto na de docente. Ou seja, já senti insegurança ao me matricular em disciplinas da área e vivencio isso nos meus orientandos e alunos. Em outras palavras, passei pelo mesmo processo que, talvez, você esteja experenciando no momento, pois é comum que carreguemos algumas resistências com relação à determinados conteúdos. Disciplinas como matemática e estatística nem sempre nos são apresentadas com a devida aplicabilidade ou por docentes com formação na nossa área de aplicação, o que dificulta, muitas vezes, o aprendizado e ajuda a criar barreiras nos estudantes</p>
 
