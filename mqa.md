@@ -24,4 +24,4 @@ código
 > Citação
 
 [:arrow_up: Sumário](#sumário)
-## Fim
+## 🔚 Fim
