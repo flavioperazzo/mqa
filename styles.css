@@ -38,14 +38,14 @@
   
   /* Style the content */
   .content {
-    background-color: #ddd;
+    background-color: #fff;
     padding: 10px;
     /* height: 200px;  Should be removed. Only for demonstration */
   }
   
   /* Style the footer */
   .footer {
-    background-color: #f1f1f1;
+    background-color: #333;
     padding: 10px;
   }
 
