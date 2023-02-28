@@ -1,6 +1,6 @@
 # Métodos Quantitativos Aplicados: uma abordagem simplificada
 
-## Sumário
+## ⬇️ Sumário
 1. 📖 [Prefácio](#Prefácio)
 2. 📖 [Introdução](#Introdução)
 #
