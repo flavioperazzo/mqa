@@ -8,6 +8,11 @@
   h1 {
     text-align: center;
   }
+
+  a:link, a:visited {
+    color: blue;
+    text-decoration: none;
+  }
   
   body {
     margin: 0 auto;
