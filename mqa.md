@@ -23,7 +23,7 @@ Nessa trajetória, tive a sorte de contar com colegas, aos quais tenho muito a a
 
 Bom, toda prosa é boa e haveria muito mais ainda a ser contado. Mas, chega de conversa fiada e vamos ao que interessa. Aqui nesse material, você vai encontrar um conjunto de informações que, espero, possam auxiliar na utilização em pesquisas quanti, como gostamos de dizer. É minha esperança também que o conteúdo possa diminuir uma eventual resistência no aprendizado. Ele é voltado para quem está iniciando na temática, seja estudante de graduação ou pós-graduação, para curiosos e para quem deseja simplesmente complementar conhecimentos. Qualquer dúvida adicional sobre o conteúdo, você pode sempre entrar em contato comigo por email, caso lhe seja conveniente.
 
-Para navegar no conteúdo, o sumário foi pensado dentro da perspectiva de delineamento, descrição e inferência. Isto é, seguindo uma concepção tradicional de formação do conhecimento em métodos quantitativos. Utilize-o para ajudar a encontrar o tópico de interesse mais rapidamente. 
+Para navegar no conteúdo, o sumário foi pensado dentro da perspectiva de delineamento, descrição e inferência. Isto é, além deste prefácio e da introdução, os assuntos são apresentados seguindo uma concepção tradicional de formação do conhecimento em métodos quantitativos. Utilize-o para ajudar a encontrar o tópico de interesse mais rapidamente. 
 
 ⬆️[Sumário](#sumário)
 
