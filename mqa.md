@@ -36,19 +36,19 @@ Por essa razão, seguimos aqui a mesma lógica, no intuito de diminuir resistên
 
 Segundo Agresti e Finlay (2012), a estatística é um conjunto de métodos utilizados para obter e analisar dados em estudos de pesquisa quantitativa. Podemos esquematizá-la em torno de três dimensões: delineamento, descrição e inferência. Essa é a forma típica em que o conteúdo é apresentado em livros acadêmicos. Em geral, para todas elas, é preciso planejamento e, posteriormente, execução.
 
-> O **delineamento** da pesquisa diz respeito a como os dados serão coletados, envolvendo a escolha de sujeitos e instrumentos. 
-
-> A **descrição** dos dados é feita por meio de gráficos, tabelas e resumos numéricos. 
-
-> A **inferência** é o processo de fazer previsões com base nos dados coletados, utilizando testes de hipóteses.
+```
+* O **delineamento** da pesquisa diz respeito a como os dados serão coletados, envolvendo a escolha de sujeitos e instrumentos. 
+* A **descrição** dos dados é feita por meio de gráficos, tabelas e resumos numéricos. 
+* A **inferência** é o processo de fazer previsões com base nos dados coletados, utilizando testes de hipóteses.
+```
 
 Para além dessas definições, é importante também entender a diferença entre alguns termos clássicos, sempre necessários para se pensar na execução de uma pesquisa quantitativa. Isto é, sujeitos, população, amostra, parâmetro e estatística.
 
-> Os **sujeitos** são as entidades observadas em um estudo, podendo ser pessoas, famílias, escolas, cidades, empresas, entre outros. 
+* Os **sujeitos** são as entidades observadas em um estudo, podendo ser pessoas, famílias, escolas, cidades, empresas, entre outros. 
 
-> A **população** é o conjunto completo de sujeitos de interesse em um estudo, enquanto a **amostra** é o subconjunto da população a partir do qual os dados são coletados. 
+* A **população** é o conjunto completo de sujeitos de interesse em um estudo, enquanto a **amostra** é o subconjunto da população a partir do qual os dados são coletados. 
 
-> O **parâmetro** é um resumo numérico da população, enquanto a **estatística** é um resumo numérico dos dados amostrais.
+* O **parâmetro** é um resumo numérico da população, enquanto a **estatística** é um resumo numérico dos dados amostrais.
 
 ### Qual a origem da estatística?
 
