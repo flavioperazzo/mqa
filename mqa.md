@@ -6,8 +6,11 @@
 3. 📖 [Delineamento](#Delineamento)
    
    3.1. 📖 [Mensuração e Escalas](#Mensuração e Escalas)
+
    3.2. 📖 [Criação de Questionários](#Criação de Questionários)
+
    3.3. 📖 [Amostragem](#Amostragem)
+   
 4. 📖 Descrição(#Amostragem)
 5. 📖 Inferência(#Amostragem)
 #
