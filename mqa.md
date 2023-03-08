@@ -4,6 +4,7 @@
 1. 📖 [Prefácio](#Prefácio)
 2. 📖 [Introdução](#Introdução)
 3. 📖 [Delineamento](#Delineamento)
+   
    3.1. 📖 [Mensuração e Escalas](#Mensuração e Escalas)
    3.2. 📖 [Criação de Questionários](#Criação de Questionários)
    3.3. 📖 [Amostragem](#Amostragem)
@@ -77,7 +78,7 @@ Dito de outra forma, o problema do pesquisador quantitativo de software é comum
 Aqui, deixo registrado três recomendações importantes (Sharpe *et al.*, 2011):
 
 - Faça um planejamento da sua pesquisa sempre. Isto é, para onde vou e por quê.
-- Estatística não tem a ver apenas com o fazer. Realizar cálculos e exibir gráficos são parte do trabalho, mas, você pode deixar isso para os programas. Concentre--se em interpretar os resultados.
+- Estatística não tem a ver apenas com o fazer. Realizar cálculos e exibir gráficos são parte do trabalho, mas, você pode deixar isso para os programas. Concentre-se em interpretar os resultados.
 - Faça o exercício de relatar o que aprendeu, de modo que outra pessoa possa entender o seu trabalho. Até que isso aconteça, seu trabalho deve continuar.
 
 ### Qual programa devo utilizar para analisar meus dados?
@@ -91,14 +92,14 @@ Todavia, aqui cabe a ressalva de que há uma curva de aprendizagem maior. Você 
 
 Do meu ponto de vista pedagógico, no campo de Ciências Sociais e Humanas, considerando o contexto formativo dos estudantes, acredito que iniciar o conhecimento por programas com interfaces gráficas mais amigáveis é mais produtivo. Ou seja, para quebrar resistências, programas como o Jamovi e o Jasp são bastante interessantes. Daí, a depender do interesse do estudante, ele pode continuar sua jornada formativa com cursos adicionais e, se enveredar pelo R, caso tenha necessidade e o queira. Particularmente, utilizo o Jamovi na disciplina de Métodos Quantitativos Aplicados, recebendo excelente retorno e facilidade na condução da aula.
 
-Gostaria de comentar, para finalizar, que eu advogo pelo *software livre*. Ou seja, existem ótimas opções proprietárias, como o Minitab, SPSS, Microsoft Excel etc. Todavia, acredito que a utilização desses programas só devem ser realizadas se o estudante tiver a licença, que não costuma ser barata. No passado, com a menor quantidade de opções livres, seria mais tolerável usar opções alternativas, o que é diferente da situação atual. 
+Gostaria de comentar, para finalizar, que eu advogo pelo *software* livre. Ou seja, existem ótimas opções proprietárias, como o Minitab, SPSS, Microsoft Excel etc. Todavia, acredito que a utilização desses programas só devem ser realizadas se o estudante tiver a licença, que não costuma ser barata. No passado, com a menor quantidade de opções livres, seria mais tolerável usar opções alternativas, o que é diferente da situação atual. 
 
 ``` 
 Vídeo sobre qual programa utilizar
 https://youtu.be/Rzd7bIKkOAg
 ```
 
-**** Lista de programas estatísticos recomendados
+#### Lista de programas estatísticos recomendados
 - Jamovi: https://www.jamovi.org/
 - Jasp: https://jasp-stats.org/
 - PSPP: https://www.gnu.org/software/pspp/
